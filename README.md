@@ -1,1 +1,4 @@
 # Edgenuity-Script-Tutorial
+
+This script is one instance of some type of Edgenuity script that you could find NOT normally.
+////////////////////////////////////////////////////////////////////////////////////////////////
